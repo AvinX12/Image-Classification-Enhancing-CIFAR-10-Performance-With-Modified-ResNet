@@ -38,5 +38,3 @@ The final test accuracy achieved by the model was **91.48%** considering just **
 1. Durga Avinash Kodavalla | dk4852 <br />
 2. Priyangshu Pal | pp2833 <br />
 3. Ark Pandey | ap8652 <br />
-
-## License
