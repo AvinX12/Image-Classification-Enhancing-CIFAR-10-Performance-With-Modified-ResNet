@@ -12,7 +12,7 @@ The objective of this mini-project is to develop and train a convolutional neura
 ## Model Architecture
 
 The model architecture is based on the ResNet (Residual Network) framework, which uses residual blocks to facilitate training of very deep networks. The ResNet architecture has been modified to the specific requirements of the CIFAR-10 dataset. The modified ResNet architecture consists of multiple convolutional layers, batch normalization layers, and residual blocks. The final layer is a fully connected layer with softmax activation to output class probabilities. <br /> <br />
-For more details, please go through the mini-project report available in [documents](https://github.com/AvinX12/Image-Classification-Enhancing-CIFAR-10-Performance-With-Modified-ResNet/tree/main/documents) directory in this repository. <br />
+For more details, please go through the mini-project report available in [documents](https://github.com/AvinX12/Image-Classification-Enhancing-CIFAR-10-Performance-With-Modified-ResNet/tree/main/documents) directory of this repository. <br />
 
 ## Training Methodology
 
